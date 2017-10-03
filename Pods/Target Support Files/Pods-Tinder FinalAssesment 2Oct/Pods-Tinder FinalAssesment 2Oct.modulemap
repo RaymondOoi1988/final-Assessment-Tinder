@@ -1,0 +1,6 @@
+framework module Pods_Tinder_FinalAssesment_2Oct {
+  umbrella header "Pods-Tinder FinalAssesment 2Oct-umbrella.h"
+
+  export *
+  module * { export * }
+}
